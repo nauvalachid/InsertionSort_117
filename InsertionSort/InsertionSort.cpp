@@ -75,4 +75,6 @@ void display()
 	for (int j = 0; j < n; j++)
 	{							// Looping dengan j 
 		cout << arr[j] << endl; // Output ke layar
-	
+	}
+	cout << endl;	// Output baris kosong
+}
